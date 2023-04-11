@@ -24,6 +24,7 @@ Go to the project directory
 ## Demo
 
 Visualisation of my project 
-![image_2023-04-11_110545171](https://user-images.githubusercontent.com/111692647/231096836-954f50c2-cba6-4d05-ad7a-ea13af3a58ff.png)
+![image](https://user-images.githubusercontent.com/111692647/231097210-b8e4b6cd-0cc6-4ef3-97b4-2b40ba1b444d.png)
+
 
 ![image](https://user-images.githubusercontent.com/111692647/231064452-c2114c4f-851b-4bdb-8dce-37fe50125f81.png)
