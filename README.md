@@ -11,13 +11,13 @@ This project is an example that was built along with a Youtube Series showing ho
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/MikeSbitnev/Weather-App.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Weather
 ```
 
 
